@@ -1,0 +1,8 @@
+{
+  "appId": "com.dopaminerush.game",
+  "appName": "도파민러쉬",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#120c22"
+  }
+}

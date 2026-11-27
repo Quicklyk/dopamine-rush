@@ -1,0 +1,19 @@
+{
+  "name": "dopamine-rush",
+  "version": "0.3.0",
+  "private": true,
+  "description": "도파민러쉬 - 픽셀 오토배틀 던전 게임",
+  "scripts": {
+    "android:add": "cap add android",
+    "android:sync": "cap sync android",
+    "android:assets": "capacitor-assets generate --android --iconBackgroundColor '#3a1466' --splashBackgroundColor '#120c22'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.3",
+    "@capacitor/core": "^8.6.3"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^4.0.0",
+    "@capacitor/cli": "^8.6.3"
+  }
+}
